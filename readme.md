@@ -12,7 +12,7 @@
 
 ### 实践篇
 
-- 初始tensorflow.keras（[课件](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.pdf, [代码](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.ipynb))，
+- 初始tensorflow.keras（[课件](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.pdf), [代码](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.ipynb))，
 [视频](https://www.bilibili.com/video/BV1fa411a7EV)）
 - 卷积神经网络实践（待更新）
 - 循环神经网络实践（待更新）
