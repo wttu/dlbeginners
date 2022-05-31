@@ -14,5 +14,5 @@
 
 - 初始tensorflow.keras（[课件](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.pdf)，[代码](https://github.com/wttu/dlbeginners/blob/main/slides/a_first_look_at_keras.ipynb)，[视频](https://www.bilibili.com/video/BV1fa411a7EV)）
 - Keras的FunctionalAPI与卷积神经网络实践（[代码](https://github.com/wttu/dlbeginners/blob/main/slides/FunctionalAPI_and_CNN.ipynb)，[视频](https://www.bilibili.com/video/BV12U4y117hc)）
-- 循环神经网络与注意力实践（[代码](https://github.com/wttu/dlbeginners/blob/main/slides/seq2seq_with_attention.ipynb)，[视频]()）
+- 带注意力的序列到序列实践（[代码](https://github.com/wttu/dlbeginners/blob/main/slides/seq2seq_with_attention.ipynb)，[视频](https://www.bilibili.com/video/BV1E34y1773W)）
 - 嵌入层与预训练实践（待更新）
